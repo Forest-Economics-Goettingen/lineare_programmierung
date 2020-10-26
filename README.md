@@ -165,9 +165,10 @@ der Arbeitskapazität
 <a name="7. Literatur">7. Literatur</a>
 </h3>
 
+<strong>Möhring, B. et al. (2020):</strong> Vorlesungsskript Forstliche Betriebswirtschaftslehre Bachelor. Abteilung Forstökonomie und Forsteinrichtung des Burckhard-Instituts, Forstliche Fakultät der Universität Göttingen
+
 <strong >Paul, C.; Husmann, K.; Fuchs, J. (2020):</strong> Vorlesungsskript Optimierungsmethoden in der Forstplanung. Abteilung Forstökonomie und nachhaltige Landnutzungsplanung des Burckhard-Instituts, Forstliche Fakultät der Georg-August-Universität Göttingen
 
-<strong>Möhring, B. et al. (2020):</strong> Vorlesungsskript Forstliche Betriebswirtschaftslehre Bachelor. Abteilung Forstökonomie und Forsteinrichtung des Burckhard-Instituts, Forstliche Fakultät der Universität Göttingen
 <p>
 <a href="#menu">zurück zum Inhaltsverzeichnis</a>
 </p>
