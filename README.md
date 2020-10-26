@@ -38,7 +38,7 @@ Die Lineare Programmierung gehört zu den meistgenutzten Methoden der Optimierun
 
 Die Lineare Programmierung gehört zu den meistgenutzten Methoden der Optimierung in der Forstwirtschaft. Optimierungsmethoden dienen als Entscheidungshilfe beim Einsatz begrenzter Ressourcen um ein bestmögliches Ergebnis unter gegebenen Bedingungen zu erhalten. 
 
-Als einer der bekanntesten Pioniere der Linearen Programmierung zählt George Dantzig. Dieser entwickelte die lineare Programmierung in den 1940er Jahren entscheidend. Anwendung fand diese Methode beispielsweise im 2. Weltkrieg, um den militärischen Einsatz zu optimieren.  Heutzutage ist die Lineare Programmierung eines der Hautverfahren des Operation Research und findet beispielsweise Anwendung in der Produktionsplanung.
+Als einer der bekanntesten Pioniere der Linearen Programmierung zählt George Dantzig. Dieser entwickelte die lineare Programmierung in den 1940er Jahren entscheidend. Anwendung fand diese Methode beispielsweise im 2. Weltkrieg, um den militärischen Einsatz zu optimieren.  Heutzutage ist die Lineare Programmierung eines der Hauptverfahren des Operation Research und findet beispielsweise Anwendung in der Produktionsplanung.
 
 
 <h3>
