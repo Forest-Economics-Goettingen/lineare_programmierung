@@ -124,9 +124,9 @@ Die Restriktionen werden im Kästchen „Unterliegt den Nebenbedingungen“ **(b
 
 Als Lösungsmethode **(rot)** wählt man, da es sich um ein Problem der linearen Programmierung handelt, den Simplex-LP.
 
-*Tabelle 2: Beispiel zur Lösung eines linearen Programmierungsproblems mit dem Excel-Solver * 
+*Tabelle 2: Beispiel zur Lösung eines linearen Programmierungsproblems mit dem Excel-Solver* 
 
-<img src="./images/lp_excel_solver.png" width="80%">
+<img src="./images/lp_excel_solver.png" width="700%">
 
 <h3>
 <a name="6. Beispielhafte Anwendung">6. Beispielhafte Anwendung</a>
