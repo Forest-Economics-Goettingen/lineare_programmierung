@@ -3,7 +3,7 @@ Lineare Programmierung
 
 #### Kurzbeschreibung des Modells
 
-Die Lineare Programmierung gehört zu den meistgenutzten Methoden der Optimierung in der Forstwirtschaft. Sie dient als Entscheidungshilfe zum optimalen Einsatz begrenzt verfügbarer Ressourcen. Dabei wird ein System aus linearen Gleichungen und Ungleichungen genutzt, um ein optimiertes Ziel zu berechnen. Die Lösung eines solchen Systems ist durch mathematische Operationen, durch graphische Darstellung und durch Computerprogramme wie beispielsweise dem SOLVER möglich. 
+Die Lineare Programmierung gehört zu den meistgenutzten Methoden der Optimierung in der Forstwirtschaft. Sie dient als Entscheidungshilfe zum optimalen Einsatz begrenzt verfügbarer Ressourcen. Dabei wird ein System aus linearen Gleichungen und Ungleichungen genutzt, um ein optimiertes Ziel zu berechnen. Die Lösung eines solchen Systems ist durch mathematische Operationen und eingeschränkt auch durch eine graphische Darstellung möglich. Die mathematischen Operationen (Berechnungen) werden in der Regel von Computerprogrammen ausgeführt, da doch meist viele Rechenschritte benötigt werden.
 
 <h3>
 <a name="menu">Inhaltsverzeichnis</a>
@@ -55,10 +55,10 @@ Unter einem linearen Programm ist ein System linearer mathematischer Gleichungen
 
 Eine lineare **Zielfunktion** folgt beispielsweise der mathematischen Form 
 
-_**z = c<sub>1</sub>x<sub>1</sub> + c<sub>2</sub>x<sub>2</sub> + ... + c<sub>n</sub>x<sub>n</sub>**_
+_**Z = c<sub>1</sub>x<sub>1</sub> + c<sub>2</sub>x<sub>2</sub> + ... + c<sub>n</sub>x<sub>n</sub>**_
 
 
-Dabei entspricht _z_ der Zielvariablen, welche maximiert, minimiert oder einen bestimmten Wert annehmen soll, _c_ den Konstanten und _x_ den Entscheidungsvariablen. Eine Entscheidungsvariable könnte beispielsweise die benötigten Stunden in der Pflanzung sein und eine Konstante die Kosten, die eine Pflanzstunde kostet.
+Dabei entspricht _Z_ der Zielvariablen, welche maximiert, minimiert oder einen bestimmten Wert annehmen soll, _c_ den Konstanten und _x_ den Entscheidungsvariablen. Eine Entscheidungsvariable könnte beispielsweise die benötigten Stunden in der Pflanzung sein und eine Konstante die Kosten, die eine Pflanzstunde kostet.
 
 **Restriktionen** dienen bei einem linearen Programm als Begrenzung der möglichen Entscheidungen. Sie definieren Grenzen, die die Entscheidungsvariablen begrenzt. Dabei können allgemein 3 Restriktionsarten unterschieden werden:
 
@@ -79,7 +79,7 @@ Eine grundlegende Bedingung für die Lösung linearer Programme ist die Linearit
 
 Insgesamt ergeben sich 4 Prämissen bei der Erstellung linearer Programme: Proportionalität, Addierbarkeit, Dividierbarkeit-Stetigkeit und Determinismus. 
 
-Probleme der linearen Programmierung lassen sich sowohl durch mathematische Operationen, graphische Darstellung als auch durch Programme wie dem Solver lösen. Für dieses Modell wird sich auf die Lösung mit dem Solver beschränkt. 
+Probleme der linearen Programmierung lassen sich sowohl durch händische mathematische Berechnungen, graphische Darstellung als auch mithilfe von computergestützten Programmen wie dem Excel Solver lösen. Für dieses Modell wird sich auf die Lösung mit dem Solver beschränkt. 
 
 <h3>
 <a name="3. Input und Output">3. Input und Output</a>
