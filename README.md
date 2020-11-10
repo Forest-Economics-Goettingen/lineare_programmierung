@@ -103,6 +103,10 @@ Das berechnete Ergebnis stellt das optimal beste Verhältnis der Entscheidungsva
 
 In der folgenden Abbildung ist die Tabellenform eines linearen Programierungsproblems dargestellt. Bei der Lösung solcher Probleme hilft es, die hier abgebildete Darstellung zu verwenden, da es beim Formalisieren des Problems hilft. 
 
+*Tabelle 1: Tabellenform eines linearen Programmierungsproblems in Excel (aus Paul, C.; Husmann, K.; Fuchs, J. (2020))* 
+
+<img src="./images/lp_problem.png" width="100%">
+
 <h3>
 <a name="5. Hinweise zur Anwendung">5. Hinweise zur Anwendung</a>
 </h3>
@@ -120,6 +124,9 @@ Die Restriktionen werden im Kästchen „Unterliegt den Nebenbedingungen“ **(b
 
 Als Lösungsmethode **(rot)** wählt man, da es sich um ein Problem der linearen Programmierung handelt, den Simplex-LP.
 
+*Tabelle 2: Beispiel zur Lösung eines linearen Programmierungsproblems mit dem Excel-Solver * 
+
+<img src="./images/lp_excel_solver.png" width="100%">
 
 <h3>
 <a name="6. Beispielhafte Anwendung">6. Beispielhafte Anwendung</a>
