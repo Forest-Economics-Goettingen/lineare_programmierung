@@ -126,7 +126,7 @@ Als Lösungsmethode **(rot)** wählt man, da es sich um ein Problem der linearen
 
 *Tabelle 2: Beispiel zur Lösung eines linearen Programmierungsproblems mit dem Excel-Solver* 
 
-<img src="./images/lp_excel_solver.png" width="700%">
+<img src="./images/lp_excel_solver.png" width="70%">
 
 <h3>
 <a name="6. Beispielhafte Anwendung">6. Beispielhafte Anwendung</a>
